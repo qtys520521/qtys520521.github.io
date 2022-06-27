@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://qtys520521.github.io.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 27 Jun 2022 13:32:44 +0800</lastBuildDate><atom:link href="https://qtys520521.github.io.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>“我在写的过程中遇到配置环境变量错误，经过校正，改变了文件路径，成功解决”</title>
+      <link>https://qtys520521.github.io.github.io/post/%E6%88%91%E5%9C%A8%E5%86%99%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%94%99%E8%AF%AF%E7%BB%8F%E8%BF%87%E6%A0%A1%E6%AD%A3%E6%94%B9%E5%8F%98%E4%BA%86%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E6%88%90%E5%8A%9F%E8%A7%A3%E5%86%B3/</link>
+      <pubDate>Mon, 27 Jun 2022 13:32:44 +0800</pubDate>
+      
+      <guid>https://qtys520521.github.io.github.io/post/%E6%88%91%E5%9C%A8%E5%86%99%E7%9A%84%E8%BF%87%E7%A8%8B%E4%B8%AD%E9%81%87%E5%88%B0%E9%85%8D%E7%BD%AE%E7%8E%AF%E5%A2%83%E5%8F%98%E9%87%8F%E9%94%99%E8%AF%AF%E7%BB%8F%E8%BF%87%E6%A0%A1%E6%AD%A3%E6%94%B9%E5%8F%98%E4%BA%86%E6%96%87%E4%BB%B6%E8%B7%AF%E5%BE%84%E6%88%90%E5%8A%9F%E8%A7%A3%E5%86%B3/</guid>
+      <description> </description>
+    </item>
+    
+  </channel>
+</rss>
